@@ -8,7 +8,7 @@ requirements = [
     'ed25519==1.5',
     'x25519==0.0.2',
     'PyNaCl==1.5.0',
-    'cryptography==41.0.2',
+    'cryptography==42.0.4',
     'requests==2.31.0',
     'pickleDB==0.9.2',
     'grpcio==1.59.0',
